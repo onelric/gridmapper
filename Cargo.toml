@@ -2,6 +2,8 @@
 name = "grid_mapper"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/onelric/grid_mapper"
+lisence = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -26,3 +28,4 @@ opt-level = 0
 
 [profile.release]
 opt-level = 3
+
