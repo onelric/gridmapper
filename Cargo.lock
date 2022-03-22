@@ -667,7 +667,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "grid_mapper"
+name = "gridmapper"
 version = "0.1.0"
 dependencies = [
  "const_format",
